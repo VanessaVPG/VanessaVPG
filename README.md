@@ -13,17 +13,19 @@
   
   <p align="center">
     Gosto muito de aprender sobre diversas áreas, então é possível que você encontre de tudo aqui!:sunglasses:</p>
-  
-</div>
 
-## ⚙️ &nbsp;GitHub Analytics
+  ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=VanessaVPG&show_icons=true&theme=tokyonight" alt="VanessaVPG's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaVPG&layout=compact&theme=tokyonight" alt="VanessaVPG's most languages"/>
 </p>
 
-<br><br><br>
+<br><br><br>  
+  
+</div>
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
