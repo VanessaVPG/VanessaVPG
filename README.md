@@ -1,8 +1,6 @@
 <div>
-  <h1 align="center">
   <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/VanessaVPG/951ada7b44e35b7349e9cf211b9d2a3f/raw/76efe3acc354d0f9d51e283bcd5cdd88014b0dff/cardplanet.svg"/>
-<h1 align="left"> Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Eu sou a
-    <a href="https://www.linkedin.com/in/VanessaVPG/">Vanessa! :woman_astronaut::rocket::rocket:</a></h1>
+<h1 align="left"> Olá! Eu sou a <a href="https://www.linkedin.com/in/VanessaVPG/">Vanessa! :woman_astronaut::rocket::rocket:</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VanessaVPG&style=for-the-badge&color=blue" alt="Profile views" /> </p>
    
   </h1>
@@ -73,3 +71,24 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanessaVPG/VanessaVPG/output/github-contribution-grid-snake.svg">
 </picture>  
 </div>
+<!--
+
+<br><br>
+<br><br>
+<br><br>
+
+
+
+**VanessaVPG/VanessaVPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
