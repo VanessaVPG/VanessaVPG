@@ -1,8 +1,7 @@
 <div>
   <h1 align="center">
     <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/VanessaVPG/951ada7b44e35b7349e9cf211b9d2a3f/raw/76efe3acc354d0f9d51e283bcd5cdd88014b0dff/cardplanet.svg" />
-    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou a
-    <a href="https://www.linkedin.com/in/VanessaVPG/">Vanessa! :woman_astronaut::rocket::rocket:</a>
+    Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou a <a href="https://www.linkedin.com/in/VanessaVPG/">Vanessa! :woman_astronaut::rocket::rocket:</a>
   </h1>
 
   <p align="center">
