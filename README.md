@@ -71,6 +71,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanessaVPG/VanessaVPG/output/github-contribution-grid-snake.svg">
 </picture>  
 </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 
 <br><br>
