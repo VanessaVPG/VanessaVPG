@@ -6,11 +6,11 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora Front End e estou me desenvolvendo para me tornar FullStack!
+    Desenvolvedora Front-End, atualmente estou estudando sobre a utilização do 3D e sobre realidade virtual.
   </p>
   
   <p align="center">
-    Gosto muito de aprender sobre diversas áreas, então é possível que você encontre de tudo aqui!:sunglasses:</p>
+    Gosto muito de aprender sobre diversas áreas, então é possível que você encontre de tudo aqui! :sunglasses:</p>
 
   ## ⚙️ &nbsp;GitHub Analytics
 
